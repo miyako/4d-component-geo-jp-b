@@ -131,6 +131,11 @@ $a2:=ADDRESS_Transliterate ("東京都世田谷区新町1-21-11";True)
 東京都世田谷区新町一丁目二十一番地十一号
 ```
 
+###ウィジェット
+
+Webエリア/Leafletを使用しています。バインド変数に住所を代入すると地図が表示されます。
+
+<img width="652" alt="map" src="https://cloud.githubusercontent.com/assets/1725068/18536015/2b259a14-7b34-11e6-9b9a-933ae37311cb.png">
 
 
 
