@@ -1,6 +1,10 @@
 # 4d-component-geo-jp-b
 国土交通省データ（2015年）に基づく位置情報データベース（市区町村レベル）
 
+###インストール方法
+
+http://doc.4d.com/4Dv15R5/4D/15-R5/Component-installation-and-compatibility.300-2964173.ja.html
+
 ###公開メソッド
 
 * ADDRESS_Get_code
