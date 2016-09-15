@@ -11,7 +11,7 @@
 $c0:=ADDRESS_Get_code ("東京")
 ```
 
-```json
+```js
 {"found":true,"prefectureCode":"13","prefectureName":"東京都"}
 ```
 
@@ -19,7 +19,7 @@ $c0:=ADDRESS_Get_code ("東京")
 $c1:=ADDRESS_Get_code ("東京都")
 ```
 
-```json
+```js
 {"found":true,"prefectureCode":"13","prefectureName":"東京都"}
 ```
 
@@ -27,6 +27,6 @@ $c1:=ADDRESS_Get_code ("東京都")
 $c2:=ADDRESS_Get_code ("東京都世田谷区")
 ```
 
-```
+```js
 {"found":true,"cityCode":"13112","cityName":"世田谷区","prefectureCode":"13","prefectureName":"東京都"}
 ```
