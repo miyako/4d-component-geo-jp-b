@@ -7,8 +7,6 @@
 
 http://doc.4d.com/4Dv15R5/4D/15-R5/Component-installation-and-compatibility.300-2964173.ja.html
 
-**注記**: ``最初に/DB/geo-db.4DD.zip``を展開してください。
-
 ###公開メソッド
 
 * ADDRESS_Get_code
