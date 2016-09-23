@@ -1,3 +1,6 @@
 
 *.DS_Store
-geo.4dbase/*
+zip/*
+src/geo.4dbase/DB/geo-db.4DD
+
+src/geo.4dbase/DB/geo-db.4DIndx
