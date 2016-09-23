@@ -1,6 +1,8 @@
 # 4d-component-geo-jp-b
 国土交通省データ（2015年）に基づく位置情報データベース（市区町村レベル）
 
+ダウンロード: https://github.com/miyako/4d-component-geo-jp-b/releases/download/1.0.0/geo.4dbase.zip
+
 街区地番レベルのデータベースは[こちら](https://drive.google.com/drive/folders/0B_M-9bo2YDhdN0pUMXdsRUE2VXc?usp=sharing)にあります。
 
 ###インストール方法
