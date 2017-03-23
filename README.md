@@ -7,11 +7,11 @@
 
 **街区地番レベル**のデータベースは[こちら](https://github.com/miyako/4d-component-geo-jp-a)にあります。
 
-###インストール方法
+### インストール方法
 
 http://doc.4d.com/4Dv15R5/4D/15-R5/Component-installation-and-compatibility.300-2964173.ja.html
 
-###公開メソッド
+### 公開メソッド
 
 * ADDRESS_Get_code
 
@@ -81,7 +81,7 @@ $p1:=GEO_Get_location ("東京都世田谷区新町1")
 
 ---
 
-###おまけ
+### おまけ
 
 * NUM_Half_width
  
@@ -135,7 +135,7 @@ $a2:=ADDRESS_Transliterate ("東京都世田谷区新町1-21-11";True)
 東京都世田谷区新町一丁目二十一番地十一号
 ```
 
-###ウィジェット
+### ウィジェット
 
 Webエリア/Leafletを使用しています。バインド変数に住所を代入すると地図が表示されます。
 
