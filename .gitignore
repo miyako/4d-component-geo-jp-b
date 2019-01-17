@@ -1,6 +1,0 @@
-
-*.DS_Store
-zip/*
-src/geo.4dbase/DB/geo-db.4DD
-
-src/geo.4dbase/DB/geo-db.4DIndx
